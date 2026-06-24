@@ -4,10 +4,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1470-shuffle-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
