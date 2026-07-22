@@ -67,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3312-sorted-gcd-pair-queries) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
