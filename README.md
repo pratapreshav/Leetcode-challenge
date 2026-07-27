@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
