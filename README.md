@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
