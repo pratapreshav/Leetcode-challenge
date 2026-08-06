@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3731-find-missing-elements) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
