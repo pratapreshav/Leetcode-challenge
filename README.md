@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Database
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0242-valid-anagram) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -149,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
