@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
