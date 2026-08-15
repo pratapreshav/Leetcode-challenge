@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3312-sorted-gcd-pair-queries) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
