@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2029-stone-game-ix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3312-sorted-gcd-pair-queries) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
