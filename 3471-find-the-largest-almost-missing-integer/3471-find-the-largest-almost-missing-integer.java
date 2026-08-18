@@ -1,36 +1,30 @@
+import java.util.*;
+
 class Solution {
     public int largestInteger(int[] nums, int k) {
 
         int n = nums.length;
-        int ans = -1;
+        Map<Integer, Integer> windowCount = new HashMap<>();
 
         for (int i = 0; i <= n - k; i++) {
 
-            // Current window
+            Set<Integer> set = new HashSet<>();
+
             for (int j = i; j < i + k; j++) {
+                set.add(nums[j]);
+            }
 
-                int count = 0;
+         
+            for (int num : set) {
+                windowCount.put(num, windowCount.getOrDefault(num, 0) + 1);
+            }
+        }
 
-                // Check current number in all windows
-                for (int start = 0; start <= n - k; start++) {
+        int ans = -1;
 
-                    boolean found = false;
-
-                    for (int x = start; x < start + k; x++) {
-                        if (nums[x] == nums[j]) {
-                            found = true;
-                            break;
-                        }
-                    }
-
-                    if (found) {
-                        count++;
-                    }
-                }
-
-                if (count == 1) {
-                    ans = Math.max(ans, nums[j]);
-                }
+        for (int num : windowCount.keySet()) {
+            if (windowCount.get(num) == 1) {
+                ans = Math.max(ans, num);
             }
         }
 
