@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1140-stone-game-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1470-shuffle-the-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1386-cinema-seat-allocation) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratapreshav/Leetcode-challenge/tree/master/0242-valid-anagram) |
+| [1386-cinema-seat-allocation](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2029-stone-game-ix) |
 | [2706-buy-two-chocolates](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2706-buy-two-chocolates) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
