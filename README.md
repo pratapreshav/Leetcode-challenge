@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2706-buy-two-chocolates](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2706-buy-two-chocolates) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pratapreshav/Leetcode-challenge/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/pratapreshav/Leetcode-challenge/tree/master/2706-buy-two-chocolates) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pratapreshav/Leetcode-challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
