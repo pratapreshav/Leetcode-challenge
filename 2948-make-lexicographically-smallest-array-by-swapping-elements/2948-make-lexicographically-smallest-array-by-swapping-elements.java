@@ -5,15 +5,13 @@ class Solution {
 
         int n = nums.length;
 
-        // value + original index
         int[][] arr = new int[n][2];
 
         for (int i = 0; i < n; i++) {
-            arr[i][0] = nums[i]; // value
-            arr[i][1] = i;      // original index
+            arr[i][0] = nums[i]; 
+            arr[i][1] = i;      
         }
 
-        // Sort according to value
         Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
 
         int[] ans = new int[n];
@@ -24,23 +22,22 @@ class Solution {
 
             int end = start;
 
-            // Find one connected group
+            
             while (end + 1 < n &&
                    arr[end + 1][0] - arr[end][0] <= limit) {
                 end++;
             }
 
-            // Get original indices of this group
+            
             List<Integer> indices = new ArrayList<>();
 
             for (int i = start; i <= end; i++) {
                 indices.add(arr[i][1]);
             }
 
-            // Sort indices
-            Collections.sort(indices);
+         Collections.sort(indices);
 
-            // Put sorted values at sorted indices
+           
             for (int i = 0; i < indices.size(); i++) {
                 ans[indices.get(i)] = arr[start + i][0];
             }
